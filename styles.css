@@ -1,6 +1,8 @@
 
 
-
+.body {
+    background: linear-gradient(lightgray, lightblue);
+}
 
 .main {
     margin-top: 20px;
